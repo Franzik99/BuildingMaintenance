@@ -8,13 +8,11 @@ In this context, a "void" refers to the period when a council-owned social housi
 ## Task
 The council seeks to gain a deeper understanding of the void process over the past few years and requests a weekly data analysis to highlight trends and changes over time. As part of your analysis, you should at a minimum address the following tasks:
 
-Assess how the number and cost of voids have evolved over time, and determine how these changes relate to specific characteristics or other relevant factors that you can identify or have knowledge of.
-Examine the quality and timeliness of the data provided to identify any potential issues.
-Highlight any additional insights from your data analysis that could be valuable to the Head of Building Maintenance.
-In addition to these tasks:
-
-Investigate potential correlations between the void periods and tenant demographics or property types.
-Evaluate the effectiveness of previous interventions aimed at reducing void periods and costs.
+- Assess how the number and cost of voids have evolved over time, and determine how these changes relate to specific characteristics or other relevant factors that you can identify or have knowledge of.
+- Examine the quality and timeliness of the data provided to identify any potential issues.
+- Highlight any additional insights from your data analysis that could be valuable to the Head of Building Maintenance.
+- Investigate potential correlations between the void periods and tenant demographics or property types.
+- Evaluate the effectiveness of previous interventions aimed at reducing void periods and costs.
 Finally, review the data and prepare a PowerPoint presentation that outlines your methodology, findings, and recommendations for the Head of Building Maintenance, in line with the task details provided above.
      
 ## Tools
