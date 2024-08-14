@@ -13,7 +13,8 @@ The council seeks to gain a deeper understanding of the void process over the pa
 - Highlight any additional insights from your data analysis that could be valuable to the Head of Building Maintenance.
 - Investigate potential correlations between the void periods and tenant demographics or property types.
 - Evaluate the effectiveness of previous interventions aimed at reducing void periods and costs.
-Finally, review the data and prepare a PowerPoint presentation that outlines your methodology, findings, and recommendations for the Head of Building Maintenance, in line with the task details provided above.
+  <div> Finally, review the data and prepare a PowerPoint presentation that outlines your methodology, findings, and recommendations for the Head of Building Maintenance, in line with the task details provided above.
+       </div>
      
 ## Tools
 - Microsoft Excel
