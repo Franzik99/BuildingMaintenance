@@ -1,5 +1,5 @@
 # Visualization of Data
 
-Figure A:**The Customer Purchase Activity.**
-<img src="customeractivity.png" alt="Graph 1" width="70%">
+Figure A:**Number of Voidcost per Week.**
+<img src="week.png" alt="Graph 1" width="70%">
 
